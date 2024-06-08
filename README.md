@@ -1,4 +1,4 @@
-# BlogBot: Streamlit App for Generating Customized Blog Posts with LLaMA 2
+# BlogBot
 
 BlogBot is a Streamlit application that leverages the power of the LLaMA 2 language model to generate high-quality, customized blog posts on demand. With a user-friendly interface, you can input a blog topic, specify the desired word count, and select the target audience (Researchers, Data Scientists, or Common People). The application then utilizes the LLaMA 2 model to generate a tailored blog post based on your preferences.
 
